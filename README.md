@@ -34,7 +34,7 @@ Example:
 ## Contribution
 
 If you want to contribute, fork the repository and send a pull request.  
-For questions or suggestions, contact [email@example.com].
+For questions or suggestions, contact on discord in the server support of ArJo Linux [https://discord.gg/8pNb58gH].
 
 ## License
 
